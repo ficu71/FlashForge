@@ -71,4 +71,4 @@ Projekt FlashForge ma charakter **edukacyjny i serwisowy**. Nie wolno używać g
 
 ## 🧠 Licencja
 
-MIT License © 2025 FlashForge Syndicate
+Ficu71 License © 2025 FlashForge Syndicate
