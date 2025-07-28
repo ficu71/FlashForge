@@ -1,0 +1,1 @@
+# GUI package containing PyQt5 widgets used throughout the application.
